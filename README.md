@@ -167,6 +167,9 @@ This example uses the following libraries provided by Okta:
 * [Stormpath Java SDK](https://github.com/stormpath/stormpath-sdk-java)
 * [Okta Sign-In Widget](https://github.com/okta/okta-signin-widget)
 
+for oauth provider 
+* https://www.baeldung.com/cloud-foundry-uaa
+
 ## Help
 
 Please post any questions as comments on the following blog posts, or visit our [Okta Developer Forums](https://devforum.okta.com/). You can also email developers@okta.com if would like to create a support ticket.
@@ -178,6 +181,3 @@ Please post any questions as comments on the following blog posts, or visit our 
 ## License
 
 Apache 2.0, see [LICENSE](LICENSE).
-
-for oauth provider 
-https://www.baeldung.com/cloud-foundry-uaa
