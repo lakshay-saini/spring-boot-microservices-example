@@ -178,3 +178,6 @@ Please post any questions as comments on the following blog posts, or visit our 
 ## License
 
 Apache 2.0, see [LICENSE](LICENSE).
+
+for oauth provider 
+https://www.baeldung.com/cloud-foundry-uaa
